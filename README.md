@@ -1,5 +1,5 @@
 Hey so this is my prefab i made for the funny :)
-Demo avi if you wanna try before applying on avi: https://vrchat.com/home/avatar/avtr_c567c3b6-fec8-4b05-9c26-ff013f6765f9 .
+Demo avi if you wanna try before applying on avi: temp unavailable .
 Its a simple [vrcfury](https://vrcfury.com/) prefab that uses [cancerspace](https://github.com/AkaiMage/VRC-Cancerspace) shader only uses about 1000 polys and 1 mat slot.
 The prefab comes with 5 images slot by default you just modify the image in the shader
 Dont forget to import vrcfury and cancerspace.![funny](https://github.com/user-attachments/assets/e3e32a0d-fb57-462d-91b1-c9253448a928)
